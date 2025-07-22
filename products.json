@@ -3,56 +3,56 @@
         "id": 1,
         "name": "LOUNGE CHAIR",
         "price": 200,
-        "image": "img/image1.png"
+        "image": "images/image1.png"
     },
 
       {
         "id": 2,
         "name": "HEAD PHONE",
         "price": 200,
-        "image": "img/head.jpg"
+        "image": "images/head.jpg"
     },
 
       {
         "id": 3,
         "name": "MIXER",
         "price": 200,
-        "image": "img/mix1.png"
+        "image": "images/mix.png"
     },
 
       {
         "id": 4,
         "name": "NECKLACE",
         "price": 200,
-        "image": "img/jwel.png"
+        "image": "images/jwel.png"
     },
 
       {
         "id": 5,
         "name": "KURTI",
         "price": 200,
-        "image": "img/dress2.png"
+        "image": "images/dress2.png"
     },
 
       {
         "id": 6,
         "name": "SHOE",
         "price": 200,
-        "image": "img/shoe1.png"
+        "image": "images/shoe1.png"
     },
 
       {
         "id": 7,
         "name": "CRICKET BAT",
         "price": 200,
-        "image": "img/bat.png"
+        "image": "images/bat.png"
     },
 
       {
         "id": 8,
         "name": "MOBILE CASE",
         "price": 200,
-        "image": "img/case.png"
+        "image": "images/case.png"
     }
 
 ]
